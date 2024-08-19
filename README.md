@@ -1,10 +1,10 @@
 <h1>Hi, I'm Sertaç</h1>
-<h3>Mobile Developer</h3>
+<h3>Software Developer</h3>
 
  
-
-- 🔭 I’m currently learning **Kotlin**
-- 🌱 I’m currently developing **Kotlin**
+- I have a 2.5 years hands on android development experience. Now I'm working as a Full Stack Developer in Modanisa.
+- 🔭 I’m currently learning **Go**
+- 🌱 I’m currently developing **Go**
 - 📫 How to reach me **srtc_ayhan@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
