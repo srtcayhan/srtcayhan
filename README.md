@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/srtcayhan/" target="blank"
     ><img
       align="center"
-      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
       alt="salihsertacayhan"
       height="30"
       width="30"
@@ -49,6 +49,13 @@
       width="40"
       height="40"
     />
+
+<a href="https://go.dev/" target="_blank">
+    <img
+   src="https://cdn.worldvectorlogo.com/logos/go-6.svg"
+      alt="go"
+      width="40"
+      height="40"
   </a>
 
 
